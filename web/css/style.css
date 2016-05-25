@@ -36,6 +36,11 @@
     margin-bottom: 20px;}
 
 
+.artimg{width:150px; 
+     height: 150px;}
+@media screen and (max-width:978px){
+
+}
 
 
 .nav-button{padding-right: 2px;}
